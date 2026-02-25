@@ -2,14 +2,14 @@ export const participants = [
   {
     id: 1,
     username: "mehdi_bch",
-    image: null,
+    image: "https://i.ibb.co/JFWPsDKX/Mehdi.png",
     team: null,
     isOnline: true,
   },
   {
     id: 2,
     username: "akramamm",
-    image: null,
+    image: "https://i.ibb.co/hFFZhvNy/Akram.png",
     team: "First team",
     isOnline: true,
   },
@@ -23,7 +23,7 @@ export const participants = [
   {
     id: 4,
     username: "douaadh",
-    image: null,
+    image: "https://i.ibb.co/LXMgwybB/Douaa.png",
     team: "First team",
     isOnline: false,
   },
@@ -37,7 +37,7 @@ export const participants = [
   {
     id: 6,
     username: "677356",
-    image: null,
+    image: "",
     team: "First team",
     isOnline: false,
   },
@@ -51,7 +51,7 @@ export const participants = [
   {
     id: 8,
     username: "anfalkapo7707",
-    image: null,
+    image: "https://i.ibb.co/fYQhN9qt/anfal.png",
     team: "Second team",
     isOnline: true,
   },
@@ -79,21 +79,21 @@ export const participants = [
   {
     id: 12,
     username: "adryn2",
-    image: null,
+    image: "",
     team: "Second team",
     isOnline: false,
   },
   {
     id: 13,
     username: "robo._38",
-    image: null,
+    image: "https://i.ibb.co/tTKpVGCY/robo.jpg",
     team: null,
     isOnline: true,
   },
   {
     id: 14,
     username: "an_is.x1",
-    image: null,
+    image: "https://i.ibb.co/Gvmgychz/anis.png",
     team: null,
     isOnline: false,
   },
