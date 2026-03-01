@@ -1,7 +1,7 @@
 # Ignore build and test output directories
 TestReactApp/
-Solution/
 Security/
+CheckMembersSolution/
 
 # Ignore node_modules
 node_modules/
